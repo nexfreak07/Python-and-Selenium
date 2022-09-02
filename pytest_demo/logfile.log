@@ -1,0 +1,47 @@
+2022-09-01 17:41:36,330 : DEBUG : pytest_demo.BaseClass : A debug statement is executed
+2022-09-01 17:41:36,330 : INFO : pytest_demo.BaseClass : Informtion
+2022-09-01 17:41:36,330 : WARNING : pytest_demo.BaseClass : Something is in warning mode
+2022-09-01 17:41:36,330 : ERROR : pytest_demo.BaseClass : A major error
+2022-09-01 17:41:36,330 : CRITICAL : pytest_demo.BaseClass : Critical Issue
+2022-09-01 17:41:36,330 : INFO : pytest_demo.BaseClass : Rahul
+2022-09-01 17:41:36,330 : INFO : pytest_demo.BaseClass : rahulshettyacademy@gmail.com
+2022-09-01 17:42:24,334 : DEBUG : test_editProfile : A debug statement is executed
+2022-09-01 17:42:24,334 : INFO : test_editProfile : Informtion
+2022-09-01 17:42:24,334 : WARNING : test_editProfile : Something is in warning mode
+2022-09-01 17:42:24,334 : ERROR : test_editProfile : A major error
+2022-09-01 17:42:24,334 : CRITICAL : test_editProfile : Critical Issue
+2022-09-01 17:42:24,334 : INFO : test_editProfile : Rahul
+2022-09-01 17:42:24,334 : INFO : test_editProfile : rahulshettyacademy@gmail.com
+2022-09-01 17:46:47,466 : DEBUG : test_editProfile : A debug statement is executed
+2022-09-01 17:46:47,467 : INFO : test_editProfile : Informtion
+2022-09-01 17:46:47,467 : WARNING : test_editProfile : Something is in warning mode
+2022-09-01 17:46:47,467 : ERROR : test_editProfile : A major error
+2022-09-01 17:46:47,467 : CRITICAL : test_editProfile : Critical Issue
+2022-09-01 17:46:47,468 : INFO : test_editProfile : Rahul
+2022-09-01 17:46:47,468 : INFO : test_editProfile : rahulshettyacademy@gmail.com
+2022-09-01 17:46:47,474 : INFO : pytest_demo.test_logging : Informtion
+2022-09-01 17:46:47,474 : WARNING : pytest_demo.test_logging : Something is in warning mode
+2022-09-01 17:46:47,474 : ERROR : pytest_demo.test_logging : A major error
+2022-09-01 17:46:47,474 : CRITICAL : pytest_demo.test_logging : Critical Issue
+2022-09-01 17:48:36,498 : DEBUG : test_editProfile : A debug statement is executed
+2022-09-01 17:48:36,499 : INFO : test_editProfile : Informtion
+2022-09-01 17:48:36,499 : WARNING : test_editProfile : Something is in warning mode
+2022-09-01 17:48:36,499 : ERROR : test_editProfile : A major error
+2022-09-01 17:48:36,499 : CRITICAL : test_editProfile : Critical Issue
+2022-09-01 17:48:36,499 : INFO : test_editProfile : Rahul
+2022-09-01 17:48:36,500 : INFO : test_editProfile : rahulshettyacademy@gmail.com
+2022-09-01 17:48:36,503 : INFO : pytest_demo.test_logging : Informtion
+2022-09-01 17:48:36,504 : WARNING : pytest_demo.test_logging : Something is in warning mode
+2022-09-01 17:48:36,504 : ERROR : pytest_demo.test_logging : A major error
+2022-09-01 17:48:36,504 : CRITICAL : pytest_demo.test_logging : Critical Issue
+2022-09-01 17:50:58,936 : DEBUG : test_editProfile : A debug statement is executed
+2022-09-01 17:50:58,937 : INFO : test_editProfile : Informtion
+2022-09-01 17:50:58,937 : WARNING : test_editProfile : Something is in warning mode
+2022-09-01 17:50:58,937 : ERROR : test_editProfile : A major error
+2022-09-01 17:50:58,937 : CRITICAL : test_editProfile : Critical Issue
+2022-09-01 17:50:58,937 : INFO : test_editProfile : Rahul
+2022-09-01 17:50:58,938 : INFO : test_editProfile : rahulshettyacademy@gmail.com
+2022-09-01 17:50:58,943 : INFO : pytest_demo.test_logging : Informtion
+2022-09-01 17:50:58,943 : WARNING : pytest_demo.test_logging : Something is in warning mode
+2022-09-01 17:50:58,943 : ERROR : pytest_demo.test_logging : A major error
+2022-09-01 17:50:58,943 : CRITICAL : pytest_demo.test_logging : Critical Issue
