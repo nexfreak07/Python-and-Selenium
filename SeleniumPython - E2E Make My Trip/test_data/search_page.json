@@ -1,0 +1,52 @@
+{
+  "Trip Types" : ["ONEWAY", "ROUND TRIP", "MULTI CITY"],
+      "Fare Types" : ["Regular\nFares", "Armed Forces\nFares", "Student\nFares", "Senior Citizen\nFares",
+                      "Doctors & Nurses\nFares", "Double Seat\nFares"],
+    "search-data": [{
+        "Onboard": "PNQ",
+        "Destination": "CCU",
+        "Trip Type": "Round Trip",
+        "Departure Date": "Nov 01 2022",
+        "Return Date": "Nov 03 2022",
+        "Passenger": "3",
+        "airline1" : "Air India",
+        "airline2" : "Go First",
+        "url" : "https://www.makemytrip.com/flight/search?itinerary=PNQ-CCU-29/10/2022_CCU-PNQ-01/11/2022&tripType=R&paxType=A-3_C-0_I-0&intl=false&cabinClass=E&ccde=IN&lang=eng"
+      },
+
+     {
+        "Onboard": "DEL",
+        "Destination": "BOM",
+        "Trip Type": "Round Trip",
+        "Departure Date": "Nov 01 2022",
+        "Return Date": "Nov 03 2022",
+        "Passenger": "5",
+        "airline1" : "AirAsia",
+        "airline2" : "Air India",
+        "url" : "https://www.makemytrip.com/flight/search?itinerary=DEL-BOM-31/10/2022_BOM-DEL-03/11/2022&tripType=R&paxType=A-5_C-0_I-0&intl=false&cabinClass=E&ccde=IN&lang=eng"
+    },
+
+     {
+        "Onboard": "BLR",
+        "Destination": "HYD",
+        "Trip Type": "Round Trip",
+        "Departure Date": "Nov 01 2022",
+        "Return Date": "Nov 02 2022",
+        "Passenger": "4",
+        "airline1" : "Vistara",
+        "airline2" : "Alliance Air",
+        "url" : "https://www.makemytrip.com/flight/search?itinerary=BLR-HYD-32/10/2022_HYD-BLR-02/11/2022&tripType=R&paxType=A-4_C-0_I-0&intl=false&cabinClass=E&ccde=IN&lang=eng"
+    },
+
+     {
+        "Onboard": "MAA",
+        "Destination": "AMD",
+        "Trip Type": "Round Trip",
+        "Departure Date": "Nov 02 2022",
+        "Return Date": "Nov 08 2022",
+        "Passenger": "5",
+        "airline1" : "SpiceJet",
+        "airline2" : "Go First",
+        "url" : "https://www.makemytrip.com/flight/search?itinerary=MAA-AMD-29/10/2022_AMD-MAA-08/11/2022&tripType=R&paxType=A-5_C-0_I-0&intl=false&cabinClass=E&ccde=IN&lang=eng"
+    }]
+}
